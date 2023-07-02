@@ -1,0 +1,4 @@
+# Airdrop
+# linea
+# ampas
+# kontoll
